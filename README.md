@@ -1,4 +1,6 @@
-只提供内网频道清单 dx线路 组播+单播回看：jhdx.m3u 组播：zjdx.3mu 在rtp2http中调用 酷9调用在rtp2http的playlist.m3u
+内网频道清单 
+dx线路 组播+单播回看：jhdx.m3u 组播：zjdx.m3u
+      在rtp2http中调用 酷9调用在rtp2http的playlist.m3u
 
 yd线路 酷9直接调用在zjyd.txt
 
