@@ -201,9 +201,9 @@ rtp://233.50.202.27:5140?fcc=115.233.43.70:8027
 rtp://233.50.202.28:5140?fcc=115.233.43.70:8027
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="付费" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221229410/94611402.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩广场舞
 rtp://233.50.202.29:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="其他",东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="付费",东方财经
 rtp://233.50.200.177:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" group-title="其他",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" group-title="付费",第一财经
 rtp://233.50.200.125:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="其他",环球旅游
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="付费",环球旅游
 rtp://233.50.202.31:5140?fcc=115.233.43.70:8027
