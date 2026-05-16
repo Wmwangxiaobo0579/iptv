@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz"
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221228078/10000100000000060000000002460690_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV1综合
 rtp://233.50.201.118:5140?fcc=115.233.43.70:8027
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221228083/10000100000000060000000002633372_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV2财经
@@ -181,6 +181,10 @@ rtp://233.50.201.179:5140?fcc=115.233.43.70:8027
 rtp://233.50.201.180:5140?fcc=115.233.43.70:8027
 #EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" group-title="地方" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221228993/10000100000000060000000004199197_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",温州新闻综合
 rtp://233.50.201.87:5140?fcc=115.233.43.70:8027
+#EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" group-title="地方",温州经济科技
+rtp://233.50.202.23:5140?fcc=115.233.43.70:8027
+#EXTINF:-1 tvg-id="温州都市生活" tvg-name="温州都市生活" group-title="地方",温州都市生活
+rtp://233.50.202.24:5140?fcc=115.233.43.70:8027
 #EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" group-title="地方" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221228982/10000100000000060000000004011299_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",绍兴新闻综合
 rtp://233.50.201.156:5140?fcc=115.233.43.70:8027
 #EXTINF:-1 tvg-id="衢州新闻综合" tvg-name="衢州新闻综合" group-title="地方",衢州新闻综合
@@ -221,17 +225,9 @@ rtp://233.50.201.187:5140?fcc=115.233.43.70:8027
 rtp://233.50.201.188:5140?fcc=115.233.43.70:8027
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="付费",快乐垂钓
 rtp://233.50.201.109:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="付费" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221229408/94611403.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩竞技
-rtp://233.50.202.26:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" group-title="付费" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221229412/94611355.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩篮球
-rtp://233.50.202.27:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" group-title="付费" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221229411/94611457.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩青少
-rtp://233.50.202.28:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="付费" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221229410/94611402.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩广场舞
-rtp://233.50.202.29:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="其他",东方财经
-rtp://233.50.200.177:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" group-title="其他",第一财经
-rtp://233.50.200.125:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="其他",环球旅游
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" group-title="付费",环球旅游
 rtp://233.50.202.31:5140?fcc=115.233.43.70:8027
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="付费",东方财经
+rtp://233.50.200.177:5140?fcc=115.233.43.70:8027
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" group-title="付费",第一财经
+rtp://233.50.200.125:5140?fcc=115.233.43.70:8027
