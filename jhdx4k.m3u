@@ -179,7 +179,7 @@ rtp://233.50.201.178:5140?fcc=115.233.43.70:8027
 rtp://233.50.201.179:5140?fcc=115.233.43.70:8027
 #EXTINF:-1 tvg-id="宁波TV4" tvg-name="宁波TV4" group-title="地方",宁波4影视
 rtp://233.50.201.180:5140?fcc=115.233.43.70:8027
-#EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" group-title="地方" catchup="default" catchup-source="rtsp://115.233.43.70/TVOD/88888913/224/3221228993/10000100000000060000000004199197_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",温州新闻综合
+#EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" group-title="地方",温州新闻综合
 rtp://233.50.201.87:5140?fcc=115.233.43.70:8027
 #EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" group-title="地方",温州经济科技
 rtp://233.50.202.23:5140?fcc=115.233.43.70:8027
