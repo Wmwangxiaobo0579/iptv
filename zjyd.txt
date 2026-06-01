@@ -136,6 +136,24 @@ CCTV17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index
 中国教育2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/index.m3u8?fmt=ts2hls
 中国教育4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543/index.m3u8?fmt=ts2hls
 
+4K频道,#genre#
+CCTV16,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236940/1.m3u8?fmt=ts2hls
+CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236847/1.m3u8?fmt=ts2hls
+浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236944/1.m3u8?fmt=ts2hls
+北京卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236938/1.m3u8?fmt=ts2hls
+东方卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236948/1.m3u8?fmt=ts2hls
+江苏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236950/1.m3u8?fmt=ts2hls
+湖南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236853/1.m3u8?fmt=ts2hls
+深圳卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236849/1.m3u8?fmt=ts2hls
+广东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236942/1.m3u8?fmt=ts2hls
+山东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236946/1.m3u8?fmt=ts2hls
+四川卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236851/1.m3u8?fmt=ts2hls
+电影4k,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236683/index.m3u8?fmt=ts2hls
+求索4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236855/1.m3u8?fmt=ts2hls
+咪咕4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8
+至臻视界4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8
+
 地方,#genre#
 钱江都市,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/index.m3u8?fmt=ts2hls
 钱江都市,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233040/index.m3u8?fmt=ts2hls
@@ -189,7 +207,7 @@ CCTV17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index
 金华教育科技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/index.m3u8?fmt=ts2hls
 金华教育科技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236330/index.m3u8?fmt=ts2hls
 金华教育科技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236660/index.m3u8?fmt=ts2hls
-绍兴新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236685/index.m3u8?fmt=ts2hls
+绍兴新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236685/index.m3u8?fmt=ts2hls
 绍兴公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236687/index.m3u8?fmt=ts2hls
 绍兴文化影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236760/index.m3u8?fmt=ts2hls
 丽水新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523/index.m3u8?fmt=ts2hls
@@ -198,10 +216,8 @@ CCTV17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index
 丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524/index.m3u8?fmt=ts2hls
 丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235525/index.m3u8?fmt=ts2hls
 丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236615/index.m3u8?fmt=ts2hls
-衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235441/index.m3u8?fmt=ts2hls
 衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236554/index.m3u8?fmt=ts2hls
 衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236658/index.m3u8?fmt=ts2hls
-衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/index.m3u8?fmt=ts2hls
 衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236511/index.m3u8?fmt=ts2hls
 衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236597/index.m3u8?fmt=ts2hls
 舟山新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/index.m3u8?fmt=ts2hls
