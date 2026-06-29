@@ -1,0 +1,24 @@
+
+name: Deploy to Cloudflare R2
+
+on:
+  push:
+    branches: [ iptv ]  # 监听 main 分支的推送
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+
+      - name: Upload to R2
+        uses: yofix/storage@main
+        with:
+          provider: r2
+          files: 'dist/**/*'  # 需要上传的文件或目录，例如构建产物目录
+          account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          bucket: ${{ secrets.R2_BUCKET_NAME }}
+          access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          verbose: true
