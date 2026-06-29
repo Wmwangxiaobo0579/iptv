@@ -1,9 +1,8 @@
-
 name: Deploy to Cloudflare R2
 
 on:
   push:
-    branches: [ iptv ]  # 监听 main 分支的推送
+    branches: [ iptv ]  # 监听 iptv 分支的推送（你的默认分支）
 
 jobs:
   upload:
@@ -11,14 +10,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 如果你的项目需要构建（例如 Node.js 项目），取消下面注释并调整命令
+       - name: Build
+         run: |
+           npm install
+           npm run build
 
       - name: Upload to R2
         uses: yofix/storage@main
         with:
           provider: r2
-          files: 'dist/**/*'  # 需要上传的文件或目录，例如构建产物目录
+          files: './**/*'  # 上传仓库根目录下的所有文件（不包括 .git 等隐藏文件）
           account-id: ${{ secrets.R2_ACCOUNT_ID }}
-          bucket: ${{ secrets.R2_BUCKET_NAME }}
+          bucket: iptv  # 直接填写你的存储桶名称
           access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
           secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          verbose: true
+          base-path: ''  # 留空表示上传到存储桶根目录
+          # public-url: 'https://你的自定义域名'  # 如果你有自定义域名，取消注释并填写
+          verbose: true  # 显示详细上传日志，方便排查问题
